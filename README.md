@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @makayo
-- 👀 I’m interested in ...Staying fit, Outdoors, Festivals, Eating and Exploring..
-- 🌱 I’m currently learning ...Front End and Mobile Development
-- 💞️ I’m looking to collaborate on ...learning code and anything in the above mentioned.
+- 👋 Hi, I’m Mark
+- 👀 I’m interested in ...Staying fit, Outdoors, Festivals, Eating and Exploring.
+- 🌱 I'm a React Front End and Mobile Developer.
+- 💞️ I’m looking to collaborate on building and creating websites, apps, and anything in the above mentioned.
 - 📫 How to reach me ...markyosinao@yahoo.com / yosinaom@gmail.com
 
 
