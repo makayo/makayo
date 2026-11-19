@@ -1,25 +1,23 @@
 
-Software Developer focused on full-stack development, backend systems, and AI/ML.
+Håfa adai! Mabuhay! Alii!
 
-I build web and mobile applications, APIs, and tools that solve practical problems. I'm also the founder of Makayo Tech.
+I'm a software developer, born and raised on Guam, with Filipino and Palauan roots. I enjoy building web and mobile applications and backend systems, especially Lately, I've also been exploring AI and machine learning.
+
+I'm always looking to improve my skills, learn new technologies, and take on new challenges. I enjoy the process of turning an idea into something useful and seeing how technology can make everyday tasks easier.
+
 
 ## Technologies
 
 **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS, Shell/Bash
 
-**Frontend & Mobile:** React, React Native, Expo, Tailwind CSS, Three.js, Vite
+**Frontend & Mobile:** React, Next.js, React Native, Expo, Tailwind CSS, Three.js, Vite
 
-**Backend:** Node.js, Express, Fastify, Flask, Supabase
+**Backend:** Node.js, Express, Fastify, Django, FastAPI, Flask
 
-**AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, PEFT/LoRA, Sentence Transformers, Ollama, GraphRAG
+**Databases:** PostgreSQL, Supabase, MongoDB (Mongoose)
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+**AI & Machine Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face (Transformers, Datasets), PEFT/LoRA, Sentence Transformers, Ollama, GraphRAG
 
-**Testing & DevOps:** Vitest, Docker
+**Data Analysis:** pandas, NumPy, Matplotlib, Seaborn
 
-## Links
-
-- [Portfolio](https://mark-yosinao-portfolio.vercel.app)
-- [LinkedIn — Personal](https://www.linkedin.com/in/mark-yosinao/)
-- [Makayo Tech — Website](https://makayotech.com)
-- [LinkedIn — Makayo Tech](https://www.linkedin.com/in/makayo-tech/)
+**Testing & DevOps:** pytest, Jest, Vitest, Docker, Git
