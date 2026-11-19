@@ -1,9 +1,9 @@
 
 Håfa adai! Mabuhay! Alii!
 
-I'm a software developer, born and raised on Guam, with Filipino and Palauan roots. I enjoy building web and mobile applications and backend systems, especially Lately, I've also been exploring AI and machine learning.
+I'm a software developer, born and raised on Guam, with Filipino and Palauan roots. I enjoy building web and mobile applications and backend systems, and lately I've been exploring AI and machine learning.
 
-I'm always looking to improve my skills, learn new technologies, and take on new challenges. I enjoy the process of turning an idea into something useful and seeing how technology can make everyday tasks easier.
+I'm always looking to improve my skills, learn new technologies, and take on new challenges. I enjoy the process of turning an idea into something useful and seeing how technology can help solve real problems for people.
 
 
 ## Technologies
